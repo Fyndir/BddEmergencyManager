@@ -41,6 +41,9 @@ Son role est de stocker les données des feux et d'affecté les camions au dit f
 
 ### Modele de données :
 
+
+![Mcd](https://github.com/Fyndir/BddEmergencyManager/blob/master/image/82490286_1012063445835640_7590705300919812096_n.png) 
+
 ![Image of sequence diag](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgRW1lcmdlbmN5IE1hbmFnZXIgYmRkCgpmbGFzayBlABUILT4gdl9wb3MgOiBpbnNlcnRpb24gZGFucyBsYQArBgAZBi0-IHQAIQd1cGRhdGUgaW50ZW5zaXTDqSBmZXUKCgAZBgAjBWluY2VuZGllAEwJAEkJdGFibGUAFwsKCgAjCwBfBWFmZmVjdGEAgQMFADYJbGVzIGNhbWlvbnMAgRcGABsNACUgcmV0aXJlADgNcXVpIHNvbnQgAGkGw6lzIMOgIHVuIGZldSBldGVpbnQKCgoKCgo&s=vs2010)
 
 Les camions à affecter sont calculer par la vue v_camion_capacite_cumule , cette vue calcul la somme cumulée croissante des camions disponible
